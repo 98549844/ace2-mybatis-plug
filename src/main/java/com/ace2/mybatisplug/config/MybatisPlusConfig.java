@@ -59,7 +59,7 @@ public class MybatisPlusConfig {
 
 
     /**
-     * 这里全部使用mybatis-autoconfigure 已经自动加载的资源。不手动指定
+     * 这里全部使用mybatis-autoconfigure 已经自动加载的资源. 不手动指定
      * 配置文件和mybatis-boot的配置文件同步
      *
      * @return
